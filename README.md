@@ -1,6 +1,6 @@
 # landing_Beverly_Hills
 
-Welcome to the Beverly_Hills landing page repository!
+Welcome to the Travel tour landing page repository!
 
 ## Table of Contents
 
@@ -18,8 +18,8 @@ Explore the world with our dynamic and user-friendly tourist website! Discover b
 
 ## Features 
 
-- Stylish Design: Beverly_Hills presents a contemporary and visually captivating design, ensuring it captures the attention of potential users.
-- HTML5/SCSS: Harnessing the capabilities of HTML5 for structure and SCSS for styling, Beverly_Hills ensures a maintainable and efficient codebase.
+- Stylish Design: Travel tour presents a contemporary and visually captivating design, ensuring it captures the attention of potential users.
+- HTML5/SCSS: Harnessing the capabilities of HTML5 for structure and SCSS for styling, Travel tour ensures a maintainable and efficient codebase.
 
 ## Tech Stack
 
@@ -30,9 +30,8 @@ Explore the world with our dynamic and user-friendly tourist website! Discover b
 
 To set up the MET landing page locally, follow these steps:
 
-1. Clone this repository: git clone https://github.com/your-username/landing_Beverly_Hills.git 
-2. Navigate to the project directory: cd Beverly_Hills-landing
-3. Open the index.html file in your preferred browser.
+1. Clone this repository: git clone https://github.com/your-username/landing_travel_tour.git
+2. install project: npm install
 
 ## Usage
 
@@ -40,11 +39,11 @@ Feel free to customize the content, style, and structure of the landing page to 
 
 ## Demo
 
-Check out the live demo of the Beverly_Hills landing page [here](https://panindmytro.github.io/landing_travel_tour/).
+Check out the live demo of the Travel tour landing page [here](https://panindmytro.github.io/landing_travel_tour/).
 
 ## Contributing
 
-Contributions are welcome! To contribute to Beverly_Hills landing page, follow these steps:
+Contributions are welcome! To contribute to Travel tour landing page, follow these steps:
 
 1. Fork the repository.
 2. Create a new branch: git checkout -b feature/your-feature.
@@ -54,4 +53,4 @@ Contributions are welcome! To contribute to Beverly_Hills landing page, follow t
 
 ***
 
-Thank you for exploring the Beverly_Hills landing page! If you have any questions or feedback, feel free to reach out. Enjoy your trip! 
+Thank you for exploring the Travel tour landing page! If you have any questions or feedback, feel free to reach out. Enjoy your trip! 
