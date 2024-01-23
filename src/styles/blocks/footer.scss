@@ -1,0 +1,244 @@
+.footer {
+  width: 1924px;
+}
+
+.tour-offer {
+  display: flex;
+  height: 277px;
+  justify-content: center;
+  background: url("./pictures/banner-footer.png") no-repeat center;
+  padding: 48px 0 42px 0;
+
+  &-container {
+  position: relative;
+  }
+}
+
+.wanna-offer {
+  text-transform: uppercase;
+  font-size: 24px;
+  font-weight: bold;
+  line-height: 1.25;
+  text-align: left;
+  color: $white-color;
+}
+
+.get-offer-container {
+  background: url("./pictures/block-footer.png") no-repeat center;
+  width: 1139px;
+  display: flex;
+  align-items: center;
+  margin-top: 34px;
+  padding: 44px 29px 39px 39px;
+}
+
+.item-offer {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.4);
+  padding-bottom: 6px;
+  padding-left: 14px;
+  height: 22px;
+}
+
+.name-offer {
+  width: 139px;
+  margin-right: 30px;
+}
+
+.email-offer {
+  width: 189px;
+  margin-right: 33px;
+}
+
+.phone-offer {
+  width: 152px;
+  margin-right: 45px;
+}
+
+.country-offer {
+  display: flex;
+  align-items: center;
+  width: 179px;
+  margin-right: 51px;
+}
+
+.country-text-offer {
+  margin-right: 41px;
+}
+
+.down-vector-options {
+  width: 16px;
+  height: 8px;
+}
+
+.text-offer {
+  font-size: 18px;
+  text-align: left;
+  color: #e6e6e6;
+}
+
+.contact-get-offer {
+  margin-top: 0;
+  margin-left: 0;
+  background-color: $yellow-color;
+}
+
+.get-offer-link {
+  display: block;
+}
+
+.countries-list {
+  position: absolute;
+  left: 627px;
+  top: 142px;
+  padding: 16px 72px 12px 16px;
+  background-color: #f8f7f7;
+}
+
+.contry {
+  font-size: 16px;
+  text-align: left;
+  color: $black-color;
+  margin-top: 8px;
+
+  &:first-child {
+    margin-top: 0;
+  }
+}
+
+.egypt {
+  color: $yellow-color;
+}
+
+.down-vector-options {
+  width: 16px;
+  height: 8px;
+  color: $white-color;
+}
+
+.footer-info {
+  display: flex;
+  justify-content: center;
+  padding: 99px 0 28px 0;
+  background-color: #22334d;
+}
+
+.agency-info {
+  width: 311px;
+  margin-right: 146px;
+}
+
+.footer-logo {
+  width: 225px;
+  height: 54px;
+  object-fit: contain;
+}
+
+.line {
+  width: 293px;
+  height: 1px;
+  opacity: 0.1;
+  background-color: #f7f8f9;
+  margin-top: 28px;
+}
+
+.description {
+  font-size: $font-size;
+  line-height: 1.71;
+  text-align: left;
+  color: $white-color;
+  margin-top: 24px;
+}
+
+.site {
+  display: flex;
+  margin-top: 19px;
+}
+
+.create-site {
+  font-size: $font-size;
+  text-align: left;
+  color: #c2c2c2;
+  margin-right: 5px;
+}
+
+.webakula {
+  width: 87px;
+  height: 17px;
+  object-fit: contain;
+}
+
+.footer-nav {
+  margin-right: 115px;
+  margin-top: 15px;
+}
+
+.help {
+  font-size: 18px;
+  font-weight: bold;
+  text-align: left;
+  color: $white-color;
+}
+
+.help-contect {
+  margin-top: 40px;
+}
+
+.nav-button {
+  font-size: $font-size;
+  text-align: left;
+  margin-top: 12px;
+
+  &:first-child {
+    margin-top: 0;
+  }
+}
+
+.help-link {
+  text-decoration: none;
+  color: $white-color;
+}
+
+.support {
+  margin-right: 135px;
+  margin-top: 15px;
+}
+
+.footer-information {
+  margin-top: 47px;
+}
+
+.footer-contacts {
+  width: 265px;
+  margin-top: 15px;
+}
+
+.footer-contact {
+  display: flex;
+  align-items: center;
+  margin-top: 17px;
+}
+
+.media {
+  margin-top: 20px;
+  margin-left: 5px;
+}
+
+.footer-phone {
+  margin-right: 8px;
+}
+
+.footer-adress {
+  margin-right: 0;
+}
+
+.footer-number {
+  margin-right: 0;
+}
+
+.contact-line {
+  width: 242px;
+}
+
+.footer-help {
+  margin-left: 6px;
+}

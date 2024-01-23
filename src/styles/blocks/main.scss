@@ -1,0 +1,179 @@
+.main {
+  display: flex;
+  justify-content: center;
+  padding-top: 72px;
+}
+
+.tour-section {
+  display: flex;
+  margin-left: 90px;
+}
+
+.tours-type {
+  font-size: 20px;
+  font-weight: bold;
+  text-align: left;
+}
+
+.hot-tours {
+  color: $yellow-color;
+  margin-right: 32px;
+  margin-left: 305px;
+}
+
+.popular-tours {
+  color: $black-color;
+}
+
+.content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 70px;
+}
+
+.content-block {
+  display: flex;
+}
+
+.slide-vector-left {
+  width: 10px;
+  height: 19px;
+  margin-right: 28px;
+}
+
+.slide-vector-right {
+  width: 10px;
+  height: 19px;
+}
+
+.content-card {
+  padding: 13px 21px 14px 14px;
+  display: flex;
+  margin-right: 71px;
+  border-radius: 7px;
+  background-color: #f8f7f7;
+
+  &:nth-child(2) {
+    margin-right: 77px;
+  }
+
+  &:last-child {
+    margin-right: 26px;
+  }
+}
+
+.content-image {
+  margin-right: 26px;
+}
+
+.where {
+  margin-top: 12px;
+  font-size: 17px;
+  font-weight: bold;
+  text-align: left;
+  color: $black-color;
+}
+
+.text {
+  font-size: $font-size;
+  text-align: left;
+  color: #3a3a3a;
+}
+
+.when {
+  margin-top: 6px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid rgba(106, 106, 106, 0.1);
+}
+
+.info {
+  line-height: normal;
+  margin-top: 17px;
+  margin-right: 1px;
+}
+
+.price {
+  display: flex;
+  margin-top: 24px;
+}
+
+.value {
+  margin-right: 10px;
+  margin-top: 6px;
+  font-size: 20px;
+  text-align: left;
+  color: $black-color;
+}
+
+.per-person {
+  margin-right: 69px;
+  font-size: 11px;
+  text-align: left;
+  color: $grey-color;
+}
+
+.slide {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 4px;
+  width: 37px;
+  height: 37px;
+  border-radius: 50%;
+  background-color: $yellow-color;
+}
+
+.vector-slide {
+  height: 12px;
+  width: 6px;
+}
+
+.advantages {
+  display: flex;
+  justify-content: center;
+  width: 1924px;
+  margin-top: 75px;
+  padding: 44px 0 75px 0;
+  background-color: #f8f7f7;
+}
+
+.our-advantages {
+  text-transform: uppercase;
+  font-size: 24px;
+  font-weight: bold;
+  text-align: left;
+  color: $black-color;
+}
+
+.story {
+  display: flex;
+  align-items: center;
+  margin-top: 57px;
+}
+
+.scuba-diver {
+  margin-right: 91px;
+  width: 458px;
+  height: 316px;
+}
+
+.story-text {
+  width: 537px;
+  font-size: 16px;
+  text-align: left;
+  line-height: 1.5;
+  color: $black-color;
+  padding: 7px 53px 5px 0;
+  border-right: 1px solid rgba(106, 106, 106, 0.1);
+}
+
+.circle {
+  position: relative;
+  bottom: 110px;
+  right: 5px;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background-color: $yellow-color;
+}

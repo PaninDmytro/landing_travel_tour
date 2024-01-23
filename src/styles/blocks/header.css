@@ -1,0 +1,225 @@
+.body {
+  display: flex;
+  justify-content: center;
+  font-family: Arial, sans-serif;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  background: url("./pictures/banner.png") no-repeat center;
+  width: 1924px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  height: 737px;
+  z-index: -2;
+}
+
+.container {
+  width: 100%;
+  padding: 8px 0 26px 0;
+}
+
+.navigation {
+  margin-top: 9px;
+}
+
+.top-bar {
+  display: flex;
+  margin-inline: 397px 378px;
+}
+
+.logo {
+  height: 81px;
+  width: 92px;
+  margin-right: 288px;
+}
+
+.contacts {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.location-link {
+  margin-right: 13px;
+}
+
+.address {
+  opacity: 0.8;
+  font-size: 14px;
+  font-weight: bold;
+  text-align: left;
+  color: rgba(243, 243, 243, 0.8);
+  margin-right: 41px;
+}
+
+.phone-link {
+  margin-right: 3px;
+}
+
+.number {
+  opacity: 0.8;
+  font-size: 14px;
+  font-weight: bold;
+  color: rgba(243, 243, 243, 0.8);
+  margin-right: 62px;
+}
+
+.facebook-icon {
+  height: 22px;
+  width: 22px;
+  margin-right: 25px;
+}
+
+.instagram-icon {
+  height: 22px;
+  width: 22px;
+  margin-right: 3px;
+}
+
+.nav-bar {
+  border-radius: 10px;
+  padding: 16px 22px 10px 26px;
+  background-color: #fbd341;
+  margin-top: 14px;
+}
+
+.nav-container {
+  display: flex;
+  align-items: center;
+}
+
+.nav-item {
+  font-size: 18px;
+  font-weight: bold;
+  color: #000;
+  text-decoration: none;
+}
+
+.down-vector {
+  width: 16px;
+  height: 8px;
+  -o-object-fit: contain;
+     object-fit: contain;
+}
+
+.tour-vector {
+  margin-right: 51px;
+}
+
+.services-vector {
+  margin-right: 35px;
+}
+
+.home {
+  margin-right: 48px;
+}
+
+.tour {
+  margin-right: 7px;
+}
+
+.countries {
+  margin-right: 61px;
+}
+
+.services {
+  margin-right: 6px;
+}
+
+.about {
+  margin-right: 41px;
+}
+
+.list-of-nav {
+  margin-left: 123px;
+  display: flex;
+}
+
+.type-of-tours {
+  width: 195px;
+  height: 189px;
+  margin-right: 47px;
+  padding: 25px 31px 19px 28px;
+  opacity: 0.8;
+  box-shadow: -1.2px 3.8px 14.7px 0.3px rgba(0, 0, 0, 0.34);
+  background-color: #3397e2;
+}
+
+.list-item {
+  line-height: 1.36;
+  font-size: 14px;
+  color: #fff;
+  margin-top: 15px;
+  overflow: hidden;
+}
+.list-item:first-child {
+  margin-top: 0;
+}
+
+.type-of-services {
+  width: 240px;
+  padding: 25px 31px 19px 28px;
+  opacity: 0.8;
+  box-shadow: -1.2px 3.8px 14.7px 0.3px rgba(0, 0, 0, 0.34);
+  background-color: #3397e2;
+  overflow: hidden;
+}
+
+.offer {
+  position: absolute;
+  padding: 66px 96px 45px 399px;
+  margin-top: -21px;
+  background: url("./pictures/blue-block.png") no-repeat center;
+  width: 1353px;
+  height: 228px;
+  z-index: -1;
+}
+
+.best-offer {
+  font-size: 30px;
+  font-weight: bold;
+  color: #fff;
+}
+
+.get-offer {
+  width: 256px;
+  margin-top: 41px;
+  margin-left: 6px;
+  padding: 17px 29px 14px 30px;
+  border-radius: 10px;
+  background-color: #fbd341;
+}
+.get-offer-text {
+  font-size: 18px;
+  text-align: left;
+}
+.get-offer-link {
+  text-decoration: none;
+  color: #000;
+  display: flex;
+}
+
+.slider {
+  display: flex;
+  position: absolute;
+  bottom: 26px;
+  left: 394px;
+}
+
+.switch {
+  width: 15px;
+  height: 14px;
+  opacity: 0.7;
+  background-color: #fff;
+  border-radius: 50%;
+  margin-right: 12px;
+}
+.switch:last-child {
+  margin: 0;
+}
+.switch-active {
+  background-color: #fbd341;
+}/*# sourceMappingURL=header.css.map */
